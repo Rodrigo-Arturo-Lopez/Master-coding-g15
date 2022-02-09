@@ -1,0 +1,45 @@
+.mail {
+    margin-left: 1100px;
+}
+
+.puntos img {
+    width:20px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.centro img {
+    padding-top: 35px;
+    padding-left: 535px;
+    
+}
+
+.barra {
+    display: block;
+    width: 520px;
+    border-radius: 25px;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eee;
+    border: 0;
+}
+
+button {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #eee;
+    border: 0;
+    border-radius: 5px;
+}
+
+.botones {
+    padding-left: 535px;
+    margin-top: 30px;
+}
+
+.ofrecido {
+    padding-left: 580px;
+    padding-top: 30px;
+
+}

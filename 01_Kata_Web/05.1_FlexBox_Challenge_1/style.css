@@ -1,0 +1,97 @@
+body {
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+.padre1 {
+    width: 600px;
+    height: 600px;
+    border: solid 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.padre2 {
+    width: 600px;
+    height: 600px;
+    border: solid 2px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hijo1 {
+    width: 30%;
+    height: 30%;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hijo2 {
+    width: 30%;
+    height: 30%;
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hijo3 {
+    width: 30%;
+    height: 30%;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hijo6 {
+    width: 30%;
+    height: 30%;
+    border: 2px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nieto1 {
+    width: 20%;
+    height: 20%;
+    border: 2px solid yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nieto2 {
+    width: 20%;
+    height: 20%;
+    border: 2px solid purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nieto3 {
+    width: 20%;
+    height: 20%;
+    border: 2px solid orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
